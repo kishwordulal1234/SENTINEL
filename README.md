@@ -8,7 +8,7 @@ SENTINEL (SSH Enhanced Network Testing Intelligence &amp; Network Entry Logic)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/sentinel/main/assets/sentinel_logo.png" alt="SENTINEL Logo" width="600"/>
+  <img src="3.jpg" alt="SENTINEL Logo" width="600"/>
 </p>
 
 ## 🔒 Overview
