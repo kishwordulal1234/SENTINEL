@@ -4,9 +4,9 @@ SENTINEL (SSH Enhanced Network Testing Intelligence &amp; Network Entry Logic)
 
 # SENTINEL - Advanced SSH Security Assessment Framework
 ![Python Version](https://img.shields.io/badge/python-3.6%2B-blue)
-![License]( (Attribution-NonCommercial-NoDerivatives) License)
-![Status](https://img.shields.io/badge/status-active-brightgreen)
 
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![License]( (NonCommercial-NoDerivatives) License)
 <p align="center">
   <img src="3.jpg" alt="SENTINEL Logo" width="600"/>
 </p>
