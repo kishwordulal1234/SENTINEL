@@ -62,7 +62,7 @@ SENTINEL offers four performance tiers:
 
 2. Install required packages:
    ```bash
-   pip install -r requirements.txt
+   pip install -r requirements-sentinel.txt
    ```
 
 3. Optional: Install NVIDIA CUDA Toolkit for GPU acceleration
